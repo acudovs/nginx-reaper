@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+cover.out
+/memory-events
+/nginx-reaper
+/system-info
